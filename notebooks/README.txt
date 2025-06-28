@@ -30,13 +30,9 @@ analysis.  Census income and population data aggregated to form age groups to ma
 - Summary
 	Regions with highest enrollment gaps based on raw population tend to encompass large urban centers.  Regions with the highest number of enrollees vs. total population were generally more rural.  Negative gap scores emerged from gap score calculations; Due to unavailabilty of data on Medicaid enrollment due to disability, this group was not represented during calculations, but was revealed in negative gap scores.  
 
-## How to Run
-1. Clone repo  
-2. Install packages  
-3. Open notebook or report
 
 ## Visuals
-dashboards, or links here.
+https://public.tableau.com/app/profile/michael.shaffer5706/viz/Medicaid_Map_Capstone/State?publish=yes
 
 ## Contact
 Michael Shaffer • ekimshaf@gmail.com • https://www.linkedin.com/in/michael-j-shaffer/
