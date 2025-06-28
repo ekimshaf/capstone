@@ -32,7 +32,7 @@ analysis.  Census income and population data aggregated to form age groups to ma
 
 
 ## Visuals
-https://public.tableau.com/app/profile/michael.shaffer5706/viz/Medicaid_Map_Capstone/State?publish=yes
+https://public.tableau.com/app/profile/michael.shaffer5706/viz/Medicaid_Map_Capstone/MedcaidCountyDashboard?publish=yes
 
 ## Contact
 Michael Shaffer • ekimshaf@gmail.com • https://www.linkedin.com/in/michael-j-shaffer/
